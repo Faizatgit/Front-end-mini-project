@@ -1,0 +1,28 @@
+figure{
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 8px;
+    box-shadow: 2px 4px 3px lightgrey;
+    border-radius: 30px;
+}
+
+figure img{
+    width: 100%;
+}
+
+h1{
+    display: inline-block;
+    font-size: 20px;
+}
+
+h2{
+    font-size: 18px;
+    display: inline-block;
+}
+
+span{
+    background-color: darkgreen;
+    border-radius: 3px;
+    font-weight: 20px;
+    color: white;
+}
