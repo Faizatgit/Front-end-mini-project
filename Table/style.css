@@ -1,0 +1,13 @@
+h1{
+    background-color: purple;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+table{
+    background-color: skyblue;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
