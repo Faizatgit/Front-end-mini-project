@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+  }
+
+button:hover  {
+    background-color: grey;
+}
+  h1{
+    background-color: purple;
+    margin-bottom: 20px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #form-builder {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  #form-preview {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: seagreen;
+  }
+  
+button{
+  padding: 10px;
+}
